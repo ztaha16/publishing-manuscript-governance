@@ -1,0 +1,5 @@
+Query_ID,Author_Name,Gender,Ethnicity,Book_Title,Genre,Word_Count,AI_Score
+BQ001,Sarah Johnson,Female,White,The Last Harbor,Literary Fiction,85000,4.5
+BQ002,Michael Chen,Male,Asian,The Last Harbor,Literary Fiction,85000,6.0
+BQ003,Maria Garcia,Female,Hispanic,The Last Harbor,Literary Fiction,85000,5.5
+BQ004,David Thompson,Male,White,The Last Harbor,Literary Fiction,85000,5.5
